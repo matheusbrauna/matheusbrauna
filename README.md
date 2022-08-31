@@ -13,15 +13,15 @@ Sou Desenvolvedor Front-End apaixonado por tecnologia e por aprender coisas nova
 
 ### ⚡ Tenho experiência/conhecimento.
 
-- Javascript | Typescript (estudando atualmente)
+- Javascript | Typescript
 - HTML | CSS
 - Git | Github
-- ReactJS (estudando atualmente)
+- ReactJS
+- NextJS (estudando atualmente)
 
 ### 💡 Tecnologias que tenho interesse
 
 - NodeJS
-- NextJS
 - React Native
 - Banco de dados
 
