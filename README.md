@@ -1,7 +1,7 @@
 ## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, Me chamo Matheus Braúna! 👨‍💻
 
 <div>
-  <a href="https://www.linkedin.com/in/matheus-brauna-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-brauna" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
@@ -18,7 +18,7 @@
 
 <p>🔭 Estou em busca da minha primeira oportunidade.</p>
 
-<p>💬 Sou Desenvolvedor Front-End apaixonado por tecnologia e por aprender coisas novas.</p>
+<p>💬 Sou Desenvolvedor Front-End e Estudante de Análise e Desenvolvimento de sistemas. Apaixonado por tecnologia e por aprender coisas novas.</p>
 
 <p>🚀 Atualmente faço parte do programa de especialização Ignite da Rockeseat, onde o objetivo é aprimorar minhas habilidades técnicas e comportamentais para me destacar como profissional.</p>
 
@@ -46,19 +46,24 @@
   </a>
 </div>
 
-### 💡 Tecnologias que tenho interesse
+
+### 📚 Estudando
 
 <div>
   <a href="https://reactjs.org" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
   </a>
-  
+</div>
+
+### 💡 Tecnologias que tenho interesse
+
+<div>
   <a href="https://reactjs.org" target="_blank">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
   </a>
   
   <a href="https://chakra-ui.com" target="_blank">
-    <img src="https://img.shields.io/badge/Chakraui-46C7C1?style=for-the-badge&logo=chakraui&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/graphql-E4405F?style=for-the-badge&logo=graphql&logoColor=white" alt="">
   </a>
 </div>
 
