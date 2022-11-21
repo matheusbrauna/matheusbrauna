@@ -50,7 +50,7 @@
 ### 📚 Estudando
 
 <div>
-  <a href="https://reactjs.org" target="_blank">
+  <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
   </a>
 </div>
@@ -58,7 +58,7 @@
 ### 💡 Tecnologias que tenho interesse
 
 <div>
-  <a href="https://reactjs.org" target="_blank">
+  <a href="https://reactnative.dev" target="_blank">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
   </a>
   
