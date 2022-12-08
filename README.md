@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
   </a>
   
-  <a href="https://chakra-ui.com" target="_blank">
+  <a href="https://graphql.org" target="_blank">
     <img src="https://img.shields.io/badge/graphql-E4405F?style=for-the-badge&logo=graphql&logoColor=white" alt="">
   </a>
 </div>
