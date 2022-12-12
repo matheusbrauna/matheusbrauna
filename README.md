@@ -22,9 +22,25 @@
 
 <p>🚀 Atualmente faço parte do programa de especialização Ignite da Rockeseat, onde o objetivo é aprimorar minhas habilidades técnicas e comportamentais para me destacar como profissional.</p>
 
-### ⚡ Tenho conhecimento em:
+### ⚡ Stack Principal:
 
 <div>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="Logo do HTML">
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1A6DB0?style=for-the-badge&logo=css3&logoColor=white" alt="Logo do CSS">
+  </a>
+  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/Javascript" target="_blank">
+    <img src="https://img.shields.io/badge/Javascript-EAD422?style=for-the-badge&logo=javascript&logoColor=121214" alt="Logo do Javascript">
+  </a>
+  
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Sass-C36191?style=for-the-badge&logo=sass&logoColor=white" alt="Logo do Sass">
+  </a>
+  
   <a href="https://reactjs.org" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React">
   </a>
@@ -42,7 +58,7 @@
   </a>
   
   <a href="https://styled-components.com/" target="_blank">
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Logo do styled components">
   </a>
 </div>
 
@@ -51,7 +67,15 @@
 
 <div>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Logo do NodeJS">
+  </a>
+  
+  <a href="https://expressjs.com/pt-br/" target="_blank">
+    <img src="https://img.shields.io/badge/Express-121214?style=for-the-badge&logo=express&logoColor=white" alt="Logo do express">
+  </a>
+  
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Logo do Nestjs">
   </a>
 </div>
 
@@ -59,11 +83,11 @@
 
 <div>
   <a href="https://reactnative.dev" target="_blank">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React Native">
   </a>
   
   <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E4405F?style=for-the-badge&logo=graphql&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/graphql-E4405F?style=for-the-badge&logo=graphql&logoColor=white" alt="Logo do Graphql">
   </a>
 </div>
 
