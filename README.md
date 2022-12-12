@@ -18,7 +18,7 @@
 
 <p>🔭 Estou em busca da minha primeira oportunidade.</p>
 
-<p>💬 Sou Desenvolvedor Front-End e Estudante de Análise e Desenvolvimento de sistemas. Apaixonado por tecnologia e por aprender coisas novas.</p>
+<p>💬 Sou Desenvolvedor Front-End e Estudante de Análise e Desenvolvimento de sistemas. Apaixonado por tecnologia e por aprender coisas novas. Tenho como um objetivo a longo prazo me tornar um desenvolvedor full-stack.</p>
 
 <p>🚀 Atualmente faço parte do programa de especialização Ignite da Rockeseat, onde o objetivo é aprimorar minhas habilidades técnicas e comportamentais para me destacar como profissional.</p>
 
