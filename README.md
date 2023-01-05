@@ -77,10 +77,6 @@
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Logo do Nestjs">
   </a>
-  
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E4405F?style=for-the-badge&logo=graphql&logoColor=white" alt="Logo do Graphql">
-  </a>
 </div>
 
 ### 💡 Tecnologias que tenho interesse
@@ -88,6 +84,10 @@
 <div>
   <a href="https://reactnative.dev" target="_blank">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React Native">
+  </a>
+  
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/graphql-E4405F?style=for-the-badge&logo=graphql&logoColor=white" alt="Logo do Graphql">
   </a>
 </div>
 
