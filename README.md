@@ -77,6 +77,10 @@
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Logo do Nestjs">
   </a>
+  
+   <a href="https://redux.js.org" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Logo do Redux">
+  </a>
 </div>
 
 ### 💡 Tecnologias que tenho interesse
