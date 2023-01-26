@@ -60,6 +60,9 @@
   <a href="https://styled-components.com/" target="_blank">
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Logo do styled components">
   </a>
+  <a href="https://styled-components.com/" target="_blank">
+    <img src="https://img.shields.io/badge/chakra--ui-61CACA?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Logo do styled components">
+  </a>
 </div>
 
 
