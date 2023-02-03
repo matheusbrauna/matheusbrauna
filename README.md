@@ -68,19 +68,7 @@
 
 ### 📚 Estudando
 
-<div>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Logo do NodeJS">
-  </a>
-  
-  <a href="https://fastify.com/pt-br/" target="_blank">
-    <img src="https://img.shields.io/badge/Fasfity-121214?style=for-the-badge&logo=fastify&logoColor=white" alt="Logo do express">
-  </a>
-  
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Logo do Nestjs">
-  </a>
-  
+<div>  
    <a href="https://redux.js.org" target="_blank">
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Logo do Redux">
   </a>
