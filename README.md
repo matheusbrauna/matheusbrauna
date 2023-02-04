@@ -69,8 +69,8 @@
 ### 📚 Estudando
 
 <div>  
-   <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Nodejs-764ABC?style=for-the-badge&logo=nodejs&logoColor=white" alt="Logo do Redux">
+   <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/Nodejs-44853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Logo do Redux">
   </a>
   
   <a href="https://graphql.org" target="_blank">
