@@ -5,10 +5,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://instagram.com/theus_hsb" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
   <a href = "mailto:matheusbrauna.contato@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -60,8 +56,11 @@
   <a href="https://styled-components.com/" target="_blank">
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Logo do styled components">
   </a>
-  <a href="https://styled-components.com/" target="_blank">
-    <img src="https://img.shields.io/badge/chakra--ui-61CACA?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Logo do styled components">
+  <a href="https://chakra-ui.com" target="_blank">
+    <img src="https://img.shields.io/badge/chakra--ui-61CACA?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="Logo do Chakra-ui">
+  </a>
+   <a href="https://git-scm.com" target="_blank">
+    <img src="https://img.shields.io/badge/git-F44D27?style=for-the-badge&logo=git&logoColor=white" alt="Logo do GIT">
   </a>
 </div>
 
