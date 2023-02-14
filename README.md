@@ -1,3 +1,5 @@
+> "A única forma de fazer um bom trabalho é amar o que você faz." - Steve Jobs
+
 ## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, Me chamo Matheus Braúna! 👨‍💻
 
 <div>
