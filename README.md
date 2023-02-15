@@ -75,7 +75,11 @@
   </a>
   
   <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E4405F?style=for-the-badge&logo=graphql&logoColor=white" alt="Logo do Graphql">
+    <img src="https://img.shields.io/badge/Graphql-E4405F?style=for-the-badge&logo=graphql&logoColor=white" alt="Logo do Graphql">
+  </a>
+
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Logo do Graphql">
   </a>
 </div>
 
