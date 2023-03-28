@@ -14,7 +14,7 @@
 
 <br />
 
-<p>🔭 Estou em busca da minha primeira oportunidade.</p>
+<p>🔎 Estou em busca da minha primeira oportunidade.</p>
 
 <p>💬 Sou Desenvolvedor Front-End e Estudante de Análise e Desenvolvimento de sistemas. Apaixonado por tecnologia e por aprender coisas novas. Estou sempre buscando novos desafios e oportunidades para me desenvolver profissionalmente.</p>
 
