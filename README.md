@@ -89,6 +89,12 @@
   <a href="https://reactnative.dev" target="_blank">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React Native">
   </a>
+    <a href="https://astro.build" target="_blank">
+    <img src="https://img.shields.io/badge/Astro-181A1E?style=for-the-badge&logo=astro&logoColor=FFFFFF" alt="Logo do Astro">
+  </a>
+    <a href="https://reactnative.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Remix-121212?style=for-the-badge&logo=remix&logoColor=FFFFFF" alt="Logo do Remix">
+  </a>
 </div>
 
 <br />
