@@ -14,11 +14,10 @@
 
 <br />
 
-<p>🔎 Estou em busca da minha primeira oportunidade.</p>
+<p>💬 Sou um Desenvolvedor Front-End apaixonado por tecnologia e programação. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e também participando do programa de especialização Ignite da Rocketseat, onde obtive certificado em React.
+</p>
 
-<p>💬 Sou Desenvolvedor Front-End e Estudante de Análise e Desenvolvimento de sistemas. Apaixonado por tecnologia e por aprender coisas novas. Estou sempre buscando novos desafios e oportunidades para me desenvolver profissionalmente.</p>
-
-<p>🚀 Atualmente faço parte do programa de especialização Ignite da Rockeseat, onde tenho a oportunidade de me preparar para o mercado e aprimorar minhas habilidades técnicas.</p>
+<p>🚀 Meu objetivo é sempre criar soluções digitais que proporcionem uma experiência excepcional aos usuários. Busco constantemente oportunidades para evoluir minha carreira e aprimorar minhas habilidades técnicas. </p>
 
 ### ⚡ Stack Principal:
 
