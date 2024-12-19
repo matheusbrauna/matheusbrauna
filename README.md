@@ -2,7 +2,7 @@
 
 # 👨‍💻 Matheus Brauna 
 
-🎯 **Desenvolvedor Full Stack | React, Next.js, TypeScript, Node.js | Soluções SaaS e Escaláveis**  
+🎯 **Desenvolvedor Full Stack - React | Typescript | Next.js | Node.js**
 
 Olá! Sou um desenvolvedor apaixonado por tecnologia com mais de 2 anos de experiência no desenvolvimento de soluções escaláveis e impactantes. Ao longo da minha jornada, trabalhei com tecnologias modernas e contribuí para projetos significativos em empresas e iniciativas pessoais. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
