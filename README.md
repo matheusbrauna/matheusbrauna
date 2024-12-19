@@ -1,43 +1,42 @@
 > "A única forma de fazer um bom trabalho é amar o que você faz." - Steve Jobs
 
-# Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, Me chamo Matheus Braúna! 👨‍💻
+# 👨‍💻 Matheus Brauna 
 
-<div>
-  <a href="https://www.linkedin.com/in/matheus-brauna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="mailto:contato@matheusbrauna.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-</div>
+🎯 **Desenvolvedor Full Stack | React, Next.js, TypeScript, Node.js | Soluções SaaS e Escaláveis**  
 
-<br />
+Olá! Sou um desenvolvedor apaixonado por tecnologia com mais de 2 anos de experiência no desenvolvimento de soluções escaláveis e impactantes. Ao longo da minha jornada, trabalhei com tecnologias modernas e contribuí para projetos significativos em empresas e iniciativas pessoais. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
-<p>💬 Sou um Desenvolvedor Front-End apaixonado por tecnologia e programação. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e também participando do programa de especialização Ignite da Rocketseat, onde obtive certificado em React.
-</p>
+## 🚀 **Sobre Mim**  
+- 💻 **Especializações:** Atuo principalmente com React, Next.js, TypeScript e Node.js (incluindo Express, Fastify e NestJS).  
+- 🌐 **DevOps:** Experiência em práticas de DevOps utilizando Docker e Git.  
+- 🎯 **Objetivo:** Foco em desenvolver soluções SaaS e Micro-SaaS inovadoras que atendam às necessidades dos usuários.  
+- 📚 **Aprendizado Contínuo:** Sou apaixonado por aprender e compartilhar conhecimento com a comunidade.  
 
-<p>🚀 Meu objetivo é sempre criar soluções digitais que proporcionem uma experiência excepcional aos usuários. Busco constantemente oportunidades para evoluir minha carreira e aprimorar minhas habilidades técnicas. </p>
+## 🛠️ **Habilidades Técnicas**  
 
-<p>✨ Com um olhar focado no detalhe e uma abordagem orientada a resultados, estou sempre em busca de novos desafios que me permitam crescer profissionalmente e contribuir para o sucesso das equipes de desenvolvimento. Sou movido pela paixão por programação e pela busca constante por aprendizado e aprimoramento.</p>
+**Front-end:**  
+- React, Next.js, TypeScript, HTML, CSS e Javascript.  
 
-### ⚡ Minha Stack:
+**Back-end:**  
+- Node.js (Express, Fastify, NestJS).  
 
-<div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Logo do React" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Logo do Typescript" />
-    <img src="https://img.shields.io/badge/Next.js-121214?style=for-the-badge&logo=next.js&logoColor=white" alt="Logo do Next.js" />
-    <img src="https://img.shields.io/badge/Javascript-EAD422?style=for-the-badge&logo=javascript&logoColor=121214" alt="Logo do Javascript" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Logo do Tailwindcss" />
-    <img src="https://img.shields.io/badge/Nodejs-43853D?style=for-the-badge&logo=nodejs&logoColor=white" alt="Logo do Nodejs" />
-    <img src="https://img.shields.io/badge/Docker-1C64EC?style=for-the-badge&logo=docker&logoColor=white" alt="Logo do Docker" />
-    <img src="https://img.shields.io/badge/git-F44D27?style=for-the-badge&logo=git&logoColor=white" alt="Logo do GIT" />
-</div>
+**DevOps:**  
+- Docker, Git, GitHub e BitBucket.
 
-<br />
+## 📂 **Projetos em Destaque**  
 
-<div align="left">
-  <a href="https://github.com/matheusbrauna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusbrauna&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusbrauna&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
+### **[Finance App](#)**  
+Um aplicativo para controle financeiro pessoal com diversas funcionalidades:  
+- **Resumo e Gráficos:** Visualize suas finanças de forma clara e detalhada.  
+- **Organização de Transações:** Criação de contas e categorias personalizadas para melhor gestão.  
+- **Filtros Avançados:** Filtre seus dados por período ou conta para análises específicas.  
+- **Importação de CSV:** Gerencie transações de outros sistemas de maneira fácil e prática.  
+- **Tabelas Interativas:** Navegue pelos dados com filtros e paginação intuitiva.  
+
+## 🌍 **Idiomas**  
+- **Português:** Nativo.  
+- **Inglês:** Avançado (C1).  
+
+## 🤝 **Conecte-se Comigo**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/matheus-brauna)  
+- 📧 [Email](mailto:contato@matheusbrauna.dev)  
