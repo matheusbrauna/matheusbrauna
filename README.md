@@ -1,42 +1,42 @@
-> "A única forma de fazer um bom trabalho é amar o que você faz." - Steve Jobs
+> “The only way to do great work is to love what you do.” - Steve Jobs
 
 # 👨‍💻 Matheus Brauna 
 
-🎯 **Desenvolvedor Full Stack - React | Typescript | Next.js | Node.js**
+🎯 **Full Stack Developer - React | Typescript | Next.js | Node.js**
 
-Olá! Sou um desenvolvedor apaixonado por tecnologia com mais de 2 anos de experiência no desenvolvimento de soluções escaláveis e impactantes. Ao longo da minha jornada, trabalhei com tecnologias modernas e contribuí para projetos significativos em empresas e iniciativas pessoais. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
+Hi, I'm a passionate technology developer with over 2 years of experience developing scalable and impactful solutions. Throughout my journey, I've worked with modern technologies and contributed to significant projects in companies and personal initiatives. I'm always looking for new challenges and learning opportunities.
 
-## 🚀 **Sobre Mim**  
-- 💻 **Especializações:** Atuo principalmente com React, Next.js, TypeScript e Node.js (incluindo Express, Fastify e NestJS).  
-- 🌐 **DevOps:** Experiência em práticas de DevOps utilizando Docker e Git.  
-- 🎯 **Objetivo:** Foco em desenvolver soluções SaaS e Micro-SaaS inovadoras que atendam às necessidades dos usuários.  
-- 📚 **Aprendizado Contínuo:** Sou apaixonado por aprender e compartilhar conhecimento com a comunidade.  
+## 🚀 **About Me**  
+- 💻 **Specializations:** I work mainly with React, Next.js, TypeScript and Node.js (including Express, Fastify and NestJS).  
+- 🌐 **DevOps:** Experience in DevOps practices using Docker and Git.  
+- 🎯 **Goal:** Focus on developing innovative SaaS and Micro-SaaS solutions that meet users' needs.  
+- 📚 **Continuous Learning:** I'm passionate about learning and sharing knowledge with the community.  
 
-## 🛠️ **Habilidades Técnicas**  
+## 🛠️ **Technical Skills**  
 
 **Front-end:**  
-- React, Next.js, TypeScript, HTML, CSS e Javascript.  
+- React, Next.js, TypeScript, HTML, CSS and Javascript.  
 
 **Back-end:**  
 - Node.js (Express, Fastify, NestJS).  
 
 **DevOps:**  
-- Docker, Git, GitHub e BitBucket.
+- Docker, Git, GitHub and BitBucket.
 
-## 📂 **Projetos em Destaque**  
+## 📂 **Featured Projects**  
 
 ### **[Finance App](#)**  
-Um aplicativo para controle financeiro pessoal com diversas funcionalidades:  
-- **Resumo e Gráficos:** Visualize suas finanças de forma clara e detalhada.  
-- **Organização de Transações:** Criação de contas e categorias personalizadas para melhor gestão.  
-- **Filtros Avançados:** Filtre seus dados por período ou conta para análises específicas.  
-- **Importação de CSV:** Gerencie transações de outros sistemas de maneira fácil e prática.  
-- **Tabelas Interativas:** Navegue pelos dados com filtros e paginação intuitiva.  
+An application for personal financial control with various features:  
+- **Summary and Charts:** Visualize your finances in a clear and detailed way.  
+- **Transaction Organization:** Create personalized accounts and categories for better management.  
+- **Advanced Filters:** Filter your data by period or account for specific analysis.  
+- **CSV Import:** Manage transactions from other systems in an easy and practical way.  
+- **Interactive Tables:** Navigate your data with filters and intuitive pagination.  
 
-## 🌍 **Idiomas**  
-- **Português:** Nativo.  
-- **Inglês:** Avançado (C1).  
+## 🌍 **Languages**  
+- **Portuguese:** Native.  
+- **English:** Advanced (C1).  
 
-## 🤝 **Conecte-se Comigo**  
+## 🤝 **Connect with me**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/matheus-brauna)  
 - 📧 [Email](mailto:contato@matheusbrauna.dev)  
