@@ -1,50 +1,33 @@
-> “The only way to do great work is to love what you do.” - Steve Jobs
+# Matheus Braúna
 
-# 👨‍💻 Matheus Brauna
+Frontend Engineer with over three years of experience building web and mobile applications with React, Next.js, TypeScript and React Native.
 
-🎯 **Full Stack Developer - React | Typescript | Next.js | Node.js**
+Currently working at Grupo Via Máquinas, developing an online auction platform and its operational systems, including real-time bidding interfaces, lot catalogs, mobile applications and administrative dashboards.
 
-Hi, I'm a passionate technology developer with over 2 years of experience developing scalable and impactful solutions. Throughout my journey, I've worked with modern technologies and contributed to significant projects in companies and personal initiatives. I'm always looking for new challenges and learning opportunities.
+Previously, I contributed to the modernization of a platform used by brands such as Havaianas and Kimberly-Clark, migrating AngularJS modules to Next.js and improving component reuse, rendering and maintainability.
 
-## 🚀 **About Me**
-- 💻 **Specializations:** I work mainly with React, Next.js, TypeScript and Node.js (including Express, Fastify and NestJS).
-- 🌐 **DevOps:** Experience in DevOps practices using Docker and Git.
-- 🎯 **Goal:** Focus on developing innovative SaaS and Micro-SaaS solutions that meet users' needs.
-- 📚 **Continuous Learning:** I'm passionate about learning and sharing knowledge with the community.
+## Areas of expertise
 
-## 🛠️ **Technical Skills**
+- Complex web applications with React and Next.js
+- Real-time interfaces with WebSocket
+- Administrative dashboards and operational systems
+- React Native applications
+- Frontend performance and accessibility
+- Legacy frontend modernization
+- API integration and end-to-end feature development
 
-**Front-end:**  
-- React, Next.js, TypeScript, HTML, CSS and Javascript.
+## Core technologies
 
-**Back-end:**  
-- Node.js (Express, Fastify, NestJS).
+**Frontend:** React, Next.js, TypeScript, JavaScript, React Native, Tailwind CSS  
+**State and data:** TanStack Query, Zustand, REST, GraphQL, WebSocket  
+**Backend:** Node.js, Fastify, NestJS, PostgreSQL  
+**Quality and tooling:** Jest, React Testing Library, Docker, GitHub Actions
 
-**DevOps:**  
-- Docker, Git, GitHub and BitBucket.
+## Selected work
 
-## 📂 **Featured Projects**
+- [Portfolio](https://matheusbrauna.com.br) — Professional portfolio and case studies
 
-### **[Finance App](https://finance-matheusbraunas-projects.vercel.app)**
-An application for personal financial control with various features:
-- Visualize your finances in a clear and detailed way.
-- Create personalized accounts and categories for better management.
-- Filter your data by period or account for specific analysis.
-- Manage transactions from other systems in an easy and practical way.
-- Navigate your data with filters and intuitive pagination.
+## Contact
 
-### **[Nivergift](https://nivergift.vercel.app)**
-Web application that lets you create personalized digital experiences for birthdays:
-- Personalized gift pages with premium and basic themes.
-- Countdown system.
-- Interactive photo gallery with animations.
-- Integration with payment system.
-- Automatic email notifications.
-
-## 🌍 **Languages**
-- **Portuguese:** Native.
-- **English:** Advanced (C1).
-
-## 🤝 **Connect with me**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/matheus-brauna)  
-- 📧 [Email](mailto:contato@matheusbrauna.dev)  
+- [LinkedIn](https://linkedin.com/in/matheus-brauna)
+- [Email](mailto:matheusbrauna.contato@gmail.com)
