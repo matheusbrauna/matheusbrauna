@@ -1,33 +1,25 @@
 # Matheus Braúna
 
-Frontend Engineer with over three years of experience building web and mobile applications with React, Next.js, TypeScript and React Native.
+Frontend & Product Engineer in Brasília, Brazil (remote; Portuguese native, English C1) with over three years of experience building web and mobile applications with React, Next.js, TypeScript, and React Native.
 
-Currently working at Grupo Via Máquinas, developing an online auction platform and its operational systems, including real-time bidding interfaces, lot catalogs, mobile applications and administrative dashboards.
+At **Grupo Via Máquinas** (Feb 2025 – present), I build web and mobile interfaces for a real-time agricultural machinery auction platform—lot catalog, lot detail, live bidding over WebSocket, and an operations dashboard connected to a Laravel backend via Inertia.js and APIs—and cut build time from about 6–8 minutes to 2:30–3 minutes. I also led the implementation of an AI agribusiness news pipeline from 3–8 sources: fact extraction with divergence tracking, source-blind writing, a non-AI n-gram similarity check (>15% overlap flagged), an AI auditor checking for invented claims (up to 3 retries with full history), and mandatory human approval before publish.
 
-Previously, I contributed to the modernization of a platform used by brands such as Havaianas and Kimberly-Clark, migrating AngularJS modules to Next.js and improving component reuse, rendering and maintainability.
-
-## Areas of expertise
-
-- Complex web applications with React and Next.js
-- Real-time interfaces with WebSocket
-- Administrative dashboards and operational systems
-- React Native applications
-- Frontend performance and accessibility
-- Legacy frontend modernization
-- API integration and end-to-end feature development
-
-## Core technologies
-
-**Frontend:** React, Next.js, TypeScript, JavaScript, React Native, Tailwind CSS  
-**State and data:** TanStack Query, Zustand, REST, GraphQL, WebSocket  
-**Backend:** Node.js, Fastify, NestJS, PostgreSQL  
-**Quality and tooling:** Jest, React Testing Library, Docker, GitHub Actions
+Previously at **Criadigi** (May 2023 – Jan 2025), I helped modernize a rewards and incentive-campaign catalog used by brands such as Havaianas and Kimberly-Clark, migrating AngularJS flows gradually to Next.js, React, and TypeScript (SSR and ISR) while the legacy system stayed in production.
 
 ## Selected work
 
-- [Portfolio](https://matheusbrauna.com.br) — Professional portfolio and case studies
+- [Native Ports](https://ports.matheusbrauna.com.br) ([code](https://github.com/matheusbrauna/native-ports)) — Open-source catalog of unofficial native ports of console games (Astro, TypeScript, Cloudflare Workers). Runs daily GitHub Actions discovery, LLM triage/review, and a deterministic `quoteIn` check that only accepts play statuses backed verbatim by the project's README. 417 ports and 14 stars as of November 2026.
+- [Vigia](https://github.com/matheusbrauna/vigia) — Open-source Chrome extension (Manifest V3, TypeScript, Svelte 5, WXT, in development) that alerts you when an AI chat tool turns training on your conversations back on. ChatGPT detector implemented, optional per-host permissions (no `<all_urls>`), and local-only logs.
+- [Portfolio](https://matheusbrauna.com.br) — Personal site and case studies.
+
+## Core stack
+
+- **Frontend:** React, Next.js, TypeScript, JavaScript, React Native, Tailwind CSS, Astro, Svelte
+- **Architecture & data:** TanStack Query, Zustand, REST, GraphQL, WebSocket, Inertia.js, SSR, ISR
+- **Backend & tooling:** Node.js, Fastify, NestJS, PostgreSQL, Docker, GitHub Actions, Vitest, Jest, React Testing Library
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/matheus-brauna)
-- [Email](mailto:matheusbrauna.contato@gmail.com)
+- [matheusbrauna.com.br](https://matheusbrauna.com.br)
+- [LinkedIn](https://www.linkedin.com/in/matheus-brauna/)
+- [contato@matheusbrauna.com.br](mailto:contato@matheusbrauna.com.br)
